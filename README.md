@@ -9,10 +9,10 @@ The purpose of this Stock Analysis was to help Steve show his parents the perfor
  
 #### **Results:**
 ###### *2017 v. 2018*
-Since Steve's parents were most interested in the Stock DAQO (DQ), let's start with that. DQ performed very well in 2017 with return of almost 200%, however is 2018 DQ 	had a negative return of 62.6%. This is true for almost all of the 12 stocks we analyzed. Only stocks ENPH and RUN both has positive returns in 2017 ans well as 2018. 
+Since Steve's parents were most interested in the Stock DAQO (DQ), let's start with that. DQ performed very well in 2017 with return of almost 200%, however is 2018 DQ 	had a negative return of 62.6%. This is true for almost all of the 12 stocks we analyzed. Only stocks ENPH and RUN both had positive returns in 2017 as well as 2018. 
 [VBA_Challenge_2017](https://github.com/allibartlett-27/stock-analysis/blob/main/VBA_Challenge_2017%20(Table).PNG) vs. [VBA_Challenge_2018](https://github.com/allibartlett-27/stock-analysis/blob/main/VBA_Challenge_2018%20(Table).PNG)
 
-My recommendation would be to invest in ENPH as it was the highest daily traded stock and had a positive return of 81.9% in 2018. Both criteria that Steve's parents were looking for. 
+My recommendation to Steve's parents would be to invest in ENPH as it was the highest daily traded stock and had a positive return of 81.9% in 2018. Both criteria that Steve's parents were looking for. 
 
 Refactoring our original script also decreased the run time for both the 2017 and 2018 All Stock Analysis. By stream-lining and cleaning up our code our run time dropped from .8242188 seconds in 2017 and .9179688 seconds in 2018, to .1484375 seconds and .1445313 seconds. 
 [2017 Original Script Runtime](https://github.com/allibartlett-27/stock-analysis/blob/main/green_stocks_2017.PNG) & [2017 Refactored Script Runtime](https://github.com/allibartlett-27/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
